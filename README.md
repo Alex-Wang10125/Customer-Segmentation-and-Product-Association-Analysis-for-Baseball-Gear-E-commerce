@@ -4,6 +4,8 @@ E-commerce customer segmentation and product association analysis using SQL and 
 Applied RFM, K-Means clustering, and Apriori algorithm. 
 Identified 0.19% high-value customers and 5 product communities, informing business strategy optimization.
 
+🇨🇳 中文说明指南：请您在上方仓库中点击README_CN.md，以阅读中文说明。
+
 ## 1. Project Background
 
 This is my first personal project for job hunting. My initial goal was to demonstrate to local HR that I have mastered SQL and Python data analysis tools and possess a certain level of business intuition.
